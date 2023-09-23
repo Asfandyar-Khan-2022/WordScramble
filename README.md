@@ -12,3 +12,8 @@ by adding all the letters from each unique word formed.
 - The code has seven methods.
 - The main addNewWord method checks to see if input word is valid
 - Lastly ContentView_Preview renders the page
+
+# App demo - Home screen
+![Screenshot 2023-09-23 at 04 16 39](https://github.com/Asfandyar-Khan-2022/WordScramble/assets/117299102/4c6526d6-173f-4210-a076-6541c70a7255)
+
+# App demo - 
