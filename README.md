@@ -14,6 +14,7 @@ by adding all the letters from each unique word formed.
 - Lastly ContentView_Preview renders the page
 
 # App demo - Home screen
-![Screenshot 2023-09-23 at 04 16 39](https://github.com/Asfandyar-Khan-2022/WordScramble/assets/117299102/4c6526d6-173f-4210-a076-6541c70a7255)
+<p align="center">
+  <img src="https://github.com/Asfandyar-Khan-2022/WordScramble/assets/117299102/58be0e82-5553-418c-bcdf-92a949204ead" width=25% height=25%>
+</p>
 
-# App demo - 
